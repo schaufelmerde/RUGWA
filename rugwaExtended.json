@@ -1,0 +1,21 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://tinyurl.com/rugwa-icon64",
+    "url_png_logo": "https://tinyurl.com/rugwa-logo",
+    "location": "South Korea",
+    "social": {
+      "twitter_handle": "rugwatchNFT"
+    },
+    "company": {
+      "name": "RUG.WATCH"
+    },
+    "about": {
+      "me": "Providing NFT collectors and creators a platform to speculate, inform, and discourse"
+    }
+  },
+  "adapools": "",
+  "my-pool-ids": [""],
+  "when-satured-then-recommend": [
+    ""
+  ]
+}
