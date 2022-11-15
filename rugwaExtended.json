@@ -1,4 +1,5 @@
 {
+  "verification":"5562933741bff8fcef"
   "info": {
     "url_png_icon_64x64": "https://tinyurl.com/rugwa-icon64",
     "url_png_logo": "https://tinyurl.com/rugwa-logo",
@@ -13,7 +14,7 @@
       "me": "Providing NFT collectors and creators a platform to speculate, inform, and discourse"
     }
   },
-  "adapools": "5562933741bff8fcef",
+  "adapools": "",
   "my-pool-ids": ["b00c8925e2fe9e839d26fc7e7585dca2820f1f308c6c0277b740d5df
 "],
   "when-satured-then-recommend": [
