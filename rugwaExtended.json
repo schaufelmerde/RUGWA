@@ -15,8 +15,7 @@
     }
   },
   "adapools": "",
-  "my-pool-ids": ["b00c8925e2fe9e839d26fc7e7585dca2820f1f308c6c0277b740d5df
-"],
+  "my-pool-ids": ["b00c8925e2fe9e839d26fc7e7585dca2820f1f308c6c0277b740d5df"],
   "when-satured-then-recommend": [
     ""
   ]
